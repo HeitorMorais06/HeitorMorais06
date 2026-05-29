@@ -79,12 +79,3 @@ Sou um entusiasta do aprendizado contínuo e acredito que a combinação entre d
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorMorais06&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
